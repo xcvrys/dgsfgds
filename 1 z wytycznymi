@@ -1,0 +1,270 @@
+Jasne, zaktualizuję wygenerowaną wcześniej propozycję, uwzględniając "Wytyczne pisania pracy dyplomowej", które załączyłeś. Skupię się na dostosowaniu struktury, nazw sekcji oraz dodaniu uwag wynikających z wytycznych.
+
+Poniżej przedstawiam skorygowaną wersję, starając się jak najlepiej zintegrować Twoje wymagania z formalnymi wytycznymi uczelni.
+
+## ZAKTUALIZOWANA PROPOZYCJA PRACY INŻYNIERSKIEJ
+
+**Uwzględniając "Wytyczne pisania pracy dyplomowej":**
+
+*   **Objętość pracy inżynierskiej:** Zgodnie z wytycznymi, treść merytoryczna (od wstępu do zakończenia, z wyłączeniem zdjęć, wykresów i tabel) powinna wynosić 55-85 stron. Moja propozycja celuje w ten zakres.
+*   **Struktura ogólna:** Zachowuję układ: Strona tytułowa, Spis treści, Wstęp, Rozdziały główne (4-5 dla pracy inżynierskiej – moja propozycja ma 4 rozdziały merytoryczne), Zakończenie, Bibliografia, Netografia (jeśli dotyczy), Spisy (tabel, rysunków – opcjonalnie), Streszczenie.
+*   **Formatowanie (ogólne uwagi):**
+    *   Czcionka: Times New Roman 12 pkt.
+    *   Interlinia: 1,5 wiersza.
+    *   Marginesy: górny, dolny, zewnętrzny, wewnętrzny – 2,5 cm; margines na oprawę 0,5 cm.
+    *   Główne elementy (Wstęp, Rozdziały, Zakończenie, Bibliografia itp.) rozpoczynane od nowej, nieparzystej strony.
+    *   Numeracja stron: w dolnych zewnętrznych rogach (numeru nie podaje się na stronie tytułowej).
+*   **Charakter pracy inżynierskiej:** Projektowy i analityczny, z częścią projektową (Rozdział 4 mojej propozycji).
+
+---
+
+## 1. KONSPEKT PRACY – szczegółowy plan struktury z podziałem na rozdziały i podrozdziały (zgodnie z wytycznymi)
+
+**Strona tytułowa** (zgodna ze wzorem uczelni – str. 8-9 Wytycznych)
+*   Nazwa uczelni, imię i nazwisko autora, numer albumu, temat pracy, rodzaj pracy (inżynierska), promotor, oświadczenie o weryfikacji antyplagiatowej, kierunek, specjalność, miejscowość i rok.
+
+**Spis treści** (zgodny z proponowanym układem – str. 10 Wytycznych)
+
+**Wstęp** (str. 7, 11, 13 Wytycznych)
+*   Uzasadnienie wyboru tematu i sformułowanie problemu badawczego.
+*   Przedmiot i cel (cele) pracy (co autor chce osiągnąć).
+*   Hipotezy badawcze (jeśli dotyczy, forma przypuszczeń).
+*   Metody i techniki badawcze zastosowane w pracy.
+*   Charakterystyka wybranych źródeł.
+*   Krótki opis zawartości poszczególnych rozdziałów (struktura pracy).
+    *   *Opis:* Wprowadzenie problemowe (1-2 strony), uzasadnienie wyboru tematu, cel i struktura pracy. Zgodnie z wytycznymi, wstęp powinien jasno określać problem, cel, metody oraz przedstawiać układ pracy.
+
+**Rozdział 1. TEORETYCZNE ASPEKTY LOGISTYKI ZWROTÓW I ZRÓWNOWAŻONEGO ŁAŃCUCHA DOSTAW W E-COMMERCE** (Rozdział teoretyczny – str. 11-12 Wytycznych)
+    *Tytuł rozdziału pisany dużymi literami, pogrubiony, Times New Roman, rozmiar 16, wyśrodkowany.*
+    1.1. Definicja i specyfika logistyki zwrotów (reverse logistics)
+        *Tytuły podrozdziałów: tekst jak w zdaniu, pogrubione, Times New Roman, rozmiar 14, wyrównane do lewej.*
+        1.1.1. Procesy składowe logistyki zwrotów
+            *Tytuły punktów w podrozdziałach: np. 1.1.1., tekst jak w zdaniu, Times New Roman, rozmiar 12.*
+        1.1.2. Przyczyny i rodzaje zwrotów w e-commerce
+        1.1.3. Rola logistyki zwrotów w strategii przedsiębiorstwa e-commerce
+    1.2. Zrównoważony łańcuch dostaw – koncepcja i znaczenie
+        1.2.1. Filary zrównoważonego rozwoju (ekonomiczny, społeczny, środowiskowy)
+        1.2.2. Wpływ działalności e-commerce na środowisko
+        1.2.3. Logistyka zwrotów jako element gospodarki o obiegu zamkniętym
+    1.3. Modele logistyki zwrotów w e-commerce
+        1.3.1. Modele scentralizowane i zdecentralizowane
+        1.3.2. Outsourcing logistyki zwrotów (3PL/4PL)
+        1.3.3. Innowacyjne modele obsługi zwrotów (np. punkty PUDO, automaty paczkowe)
+    1.4. Technologie wspierające optymalizację logistyki zwrotów
+        1.4.1. Systemy informatyczne (WMS, TMS, ERP, RMS – Return Management Systems)
+        1.4.2. Automatyzacja i robotyzacja procesów zwrotnych
+        1.4.3. Narzędzia analityczne i Big Data w zarządzaniu zwrotami
+    1.5. Kluczowe wskaźniki efektywności (KPI) w logistyce zwrotów
+        1.5.1. Wskaźniki kosztowe
+        1.5.2. Wskaźniki czasowe
+        1.5.3. Wskaźniki jakościowe
+        1.5.4. Wskaźniki zrównoważonego rozwoju
+    1.6. Aspekty prawne i regulacyjne logistyki zwrotów w Polsce i UE (jeśli autor powołuje się na akty prawne)
+        1.6.1. Prawa konsumenta dotyczące zwrotów
+        1.6.2. Regulacje środowiskowe dotyczące odpadów i recyklingu
+    *Na końcu rozdziału pożądany akapit "przejściowy" nawiązujący do kolejnego rozdziału (str. 12 Wytycznych).*
+    *   *Opis:* Rozdział zawiera podstawowe definicje, opis badanego obszaru, problemu, diagnozę sytuacji w ujęciu praktycznym i teoretycznym.
+
+**Rozdział 2. METODYKA BADAŃ WŁASNYCH** (Może być częścią rozdziału badawczego lub osobnym, zależy od preferencji promotora i specyfiki pracy – str. 12 Wytycznych)
+    2.1. Cel i przedmiot badań
+        2.1.1. Sformułowanie problemu badawczego i pytań badawczych
+        2.1.2. Określenie celów badawczych (poznawczych i praktycznych)
+    2.2. Hipotezy badawcze
+    2.3. Metody, techniki i narzędzia badawcze
+        2.3.1. Uzasadnienie wyboru metod badawczych (np. studium przypadku, analiza danych wtórnych, wywiady, obserwacje)
+        2.3.2. Opis zastosowanych technik (np. analiza dokumentacji, mapowanie procesów, analiza SWOT)
+        2.3.3. Charakterystyka narzędzi badawczych (np. kwestionariusze, oprogramowanie analityczne)
+    2.4. Zakres i organizacja badań
+        2.4.1. Opis wyboru i charakterystyka badanej organizacji/sektora (case study)
+        2.4.2. Harmonogram realizacji badań
+    2.5. Ograniczenia metodyczne
+    *   *Opis:* Rozdział opisuje fragment obszaru badań ze szczegółowym określeniem jego miejsca w dyscyplinie lub opisuje konkretny przykład, na którym autor oparł badania, prezentując metodologię. W pracy inżynierskiej często łączy się to z analizą stanu istniejącego.
+
+**Rozdział 3. ANALIZA I OCENA OBECNEGO SYSTEMU LOGISTYKI ZWROTÓW W WYBRANYM PRZEDSIĘBIORSTWIE E-COMMERCE (CASE STUDY)** (Rozdział badawczy/analityczny – str. 12 Wytycznych)
+    3.1. Charakterystyka badanego przedsiębiorstwa
+        3.1.1. Profil działalności i pozycja na rynku e-commerce
+        3.1.2. Asortyment produktów i skala operacji
+        3.1.3. Dotychczasowa polityka zwrotów i jej znaczenie dla klienta
+    3.2. Analiza obecnego procesu logistyki zwrotów
+        3.2.1. Mapowanie procesu "as-is"
+        3.2.2. Identyfikacja kluczowych etapów, zasobów i technologii
+        3.2.3. Analiza kosztów i czasu realizacji
+    3.3. Ocena efektywności obecnego systemu logistyki zwrotów
+        3.3.1. Analiza wskaźników KPI
+        3.3.2. Analiza SWOT
+        3.3.3. Ocena wpływu na zrównoważony rozwój
+    3.4. Identyfikacja obszarów problemowych i wąskich gardeł
+    *   *Opis:* Rozdział opisuje konkretny przykład, na którym autor oparł swoje badania, wykorzystując metodologię, przedstawia metody i techniki badawcze wykorzystane na potrzeby projektu.
+
+**Rozdział 4. PROJEKT OPTYMALIZACJI LOGISTYKI ZWROTÓW W BADANYM PRZEDSIĘBIORSTWIE E-COMMERCE** (Część projektowa pracy inżynierskiej – str. 6, 12 Wytycznych)
+    4.1. Propozycje usprawnień w procesie logistyki zwrotów
+        4.1.1. Optymalizacja etapów procesu
+        4.1.2. Wdrożenie/modernizacja rozwiązań technologicznych
+        4.1.3. Propozycje zmian w polityce zwrotów
+    4.2. Opracowanie modelu docelowego (procesu "to-be") logistyki zwrotów
+        4.2.1. Mapowanie zoptymalizowanego procesu
+        4.2.2. Określenie niezbędnych zasobów i technologii
+    4.3. Analiza wpływu proponowanych rozwiązań na zrównoważony łańcuch dostaw
+        4.3.1. Szacowany wpływ na redukcję kosztów i czasu
+        4.3.2. Szacowany wpływ na aspekty środowiskowe
+    4.4. Analiza ekonomiczna wdrożenia projektu (np. analiza kosztów i korzyści)
+    4.5. Rekomendacje dotyczące wdrożenia i monitorowania
+        4.5.1. Plan wdrożenia
+        4.5.2. Proponowane KPI do monitorowania
+    *   *Opis:* Rozdział zawiera wyniki badań własnych Autora, jego propozycje dotyczące nowych rozwiązań oraz wyniki analizy zebranych danych. W pracach inżynierskich kluczowa jest część projektowa ze szczegółowym opisem podmiotu, uzasadnieniem potrzeby stworzenia projektu, wyborem metodyki i analizą ekonomiczną wdrożenia.
+
+**Zakończenie** (2-3 strony podsumowania – str. 7, 13 Wytycznych)
+*   Podsumowanie wyników pracy i weryfikacja hipotez badawczych (jeśli były stawiane).
+*   Wnioski końcowe (powinny stanowić ustalenia własne autora).
+*   Rekomendacje dla przedsiębiorstw e-commerce.
+*   Kierunki dalszych badań.
+    *   *Opis:* Powinno zawierać 2-3 strony podsumowania, wnioski z realizacji celu pracy i odpowiedzi na problemy badawcze.
+
+**Bibliografia** (str. 7, 16 Wytycznych)
+*   Umieszczona na końcu pracy, po tekście głównym i zakończeniu.
+*   Układ alfabetyczny.
+*   Można wydzielić opracowania naukowe, dokumenty, źródła internetowe (zgodnie z wytycznymi – Netografia osobno).
+    *   *Opis:* Spis wykorzystanej literatury w układzie alfabetycznym.
+
+**Netografia** (str. 7, 10, 16 Wytycznych)
+*   Wykaz wykorzystanych stron internetowych.
+*   Pozycja po Akty normatywne (jeśli są) lub bezpośrednio po Bibliografii.
+*   Wymagane podanie daty dostępu.
+    *   *Opis:* Spis wykorzystanych źródeł internetowych z datami dostępu.
+
+**Akty normatywne** (jeśli występują w pracy – str. 7, 10, 15-16 Wytycznych)
+*   Sporządzony, jeśli w pracy cytowano akty prawne.
+*   Kolejność zgodna z hierarchią źródeł prawa i datą uchwalenia.
+    *   *Opis:* Spis cytowanych aktów prawnych, jeśli dotyczy.
+
+**Spis tabel (opcjonalnie)** (str. 7, 10, 14 Wytycznych)
+*   Numer, tytuł (opis) tabeli, numer strony.
+    *   *Opis:* Wykaz tabel użytych w pracy wraz z numerami stron.
+
+**Spis rysunków (opcjonalnie)** (str. 7, 10, 14 Wytycznych)
+*   Numer, tytuł (opis) rysunku, numer strony.
+    *   *Opis:* Wykaz rysunków/wykresów użytych w pracy wraz z numerami stron.
+
+**Spis wykresów (opcjonalnie)** (str. 7, 10, 14 Wytycznych)
+*   Numer, tytuł (opis) wykresu, numer strony.
+
+**Słownik używanych skrótów lub pojęć (opcjonalnie)** (str. 7 Wytycznych)
+
+**Załączniki (aneksy) (opcjonalnie)** (str. 10 Wytycznych)
+*   Np. szczegółowe mapy procesów, ankiety, transkrypcje wywiadów.
+
+**Streszczenie** (w języku polskim i angielskim – str. 7, 17 Wytycznych)
+*   Zgodne ze wzorem uczelni (str. 17 Wytycznych).
+*   Czcionka Times New Roman, 10 pkt, bez pogrubień i kursywy, nie dłuższe niż 10 wierszy (dla każdej wersji językowej).
+*   Zawiera: Tytuł pracy, Autor, Promotor, Słowa kluczowe, Kilka zdań (do 250 słów) o treści pracy.
+    *   *Opis:* Krótkie omówienie zawartości pracy w języku polskim i angielskim, zgodne ze wzorem.
+
+---
+
+## 2. SPIS TREŚCI – formalny spis z numeracją stron (orientacyjnie, dostosowany do wytycznych)
+
+*(Numeracja stron jest orientacyjna i powinna być dostosowana do rzeczywistej objętości pracy, pamiętając o wymogu 55-85 stron treści merytorycznej. Główne elementy zaczynają się od nowej strony).*
+
+**Strona tytułowa** .......................................................................................................................................... (brak numeru)
+**SPIS TREŚCI** ............................................................................................................................................. (np. 3)
+
+**WSTĘP** ...................................................................................................................................................... (np. 5)
+
+**ROZDZIAŁ 1. TEORETYCZNE ASPEKTY LOGISTYKI ZWROTÓW I ZRÓWNOWAŻONEGO ŁAŃCUCHA DOSTAW W E-COMMERCE** .............................................................................................................................................. (np. 7)
+    1.1. Definicja i specyfika logistyki zwrotów (reverse logistics) ............................................................. (np. 7)
+        1.1.1. Procesy składowe logistyki zwrotów ............................................................................. (np. 8)
+        1.1.2. Przyczyny i rodzaje zwrotów w e-commerce ................................................................. (np. 10)
+        ... (pozostałe podrozdziały i punkty z orientacyjną paginacją)
+    1.6. Aspekty prawne i regulacyjne logistyki zwrotów w Polsce i UE ................................................ (np. 25)
+
+**ROZDZIAŁ 2. METODYKA BADAŃ WŁASNYCH** ................................................................................................. (np. 27)
+    2.1. Cel i przedmiot badań ................................................................................................................... (np. 27)
+        ... (pozostałe podrozdziały i punkty)
+    2.5. Ograniczenia metodyczne ............................................................................................................ (np. 33)
+
+**ROZDZIAŁ 3. ANALIZA I OCENA OBECNEGO SYSTEMU LOGISTYKI ZWROTÓW W WYBRANYM PRZEDSIĘBIORSTWIE E-COMMERCE (CASE STUDY)** ...................................................................................................................... (np. 35)
+    3.1. Charakterystyka badanego przedsiębiorstwa ............................................................................... (np. 35)
+        ... (pozostałe podrozdziały i punkty)
+    3.4. Identyfikacja obszarów problemowych i wąskich gardeł w procesie zwrotów ......................... (np. 50)
+
+**ROZDZIAŁ 4. PROJEKT OPTYMALIZACJI LOGISTYKI ZWROTÓW W BADANYM PRZEDSIĘBIORSTWIE E-COMMERCE** .............................................................................................................................................................. (np. 52)
+    4.1. Propozycje usprawnień w procesie logistyki zwrotów .............................................................. (np. 52)
+        ... (pozostałe podrozdziały i punkty)
+    4.5. Rekomendacje dotyczące wdrożenia i monitorowania zoptymalizowanego systemu ............. (np. 68)
+
+**ZAKOŃCZENIE** ............................................................................................................................................ (np. 71)
+
+**BIBLIOGRAFIA** ............................................................................................................................................. (np. 74)
+**NETOGRAFIA** ............................................................................................................................................... (np. 76)
+**AKTY NORMATYWNE (jeśli dotyczy)** ....................................................................................................... (np. 77)
+**SPIS TABEL (opcjonalnie)** ........................................................................................................................ (np. 78)
+**SPIS RYSUNKÓW (opcjonalnie)** .............................................................................................................. (np. 79)
+**ZAŁĄCZNIKI (opcjonalnie)** ...................................................................................................................... (np. 80)
+**STRESZCZENIE (w języku polskim)** ........................................................................................................ (np. 81)
+**STRESZCZENIE (w języku angielskim – Diploma Thesis (BA/Eng.) Abstract)** .................................... (np. 82)
+
+---
+
+## 3. ZAŁOŻENIA PRACY (elementy te powinny znaleźć się głównie we Wstępie i Rozdziale Metodycznym)
+
+*   **Cele pracy:** (zgodnie z opisem we Wstępie)
+    *   **Cel główny:** Opracowanie i zaproponowanie modelu optymalizacji procesów logistyki zwrotów dla wybranego przedsiębiorstwa e-commerce, który przyczyni się do zwiększenia efektywności operacyjnej oraz wzmocnienia zrównoważonego charakteru łańcucha dostaw, z uwzględnieniem części projektowej.
+    *   **Cele szczegółowe:** (jak wcześniej, ale z naciskiem na zgodność z wytycznymi dotyczącymi celów we wstępie)
+*   **Hipotezy badawcze:** (zgodnie z opisem we Wstępie/Metodyce)
+    *   H1, H2, H3 (jak wcześniej, upewniając się, że są to przypuszczenia do weryfikacji).
+*   **Metodologia:** (szczegółowo opisana w Rozdziale 2)
+    *   Charakter teoretyczno-empiryczny z częścią projektową.
+    *   Metody, techniki, narzędzia (jak wcześniej, z uwzględnieniem wytycznych).
+*   **Zakres pracy:** (opisany we Wstępie)
+    *   Przedmiotowy, podmiotowy, czasowy (jak wcześniej).
+*   **Ograniczenia:** (opisane w Rozdziale Metodycznym)
+    *   Jak wcześniej.
+
+---
+
+## 4. WSTĘP (zgodnie z wytycznymi – str. 7, 11, 13 Wytycznych)
+
+*(Struktura i treść jak w poprzedniej propozycji, ale z uwzględnieniem, że Wstęp powinien zawierać:*
+*   *Sformułowanie i uzasadnienie problemu (przedmiot rozważań).*
+*   *Przedstawienie stanu wiedzy w zakresie będącym przedmiotem pracy i omówienie źródeł.*
+*   *Przedmiot i cel (cele) pracy.*
+*   *Problemy i metody badawcze zastosowane w pracy (w tym hipotezy, jeśli są).*
+*   *Charakterystykę poszczególnych rozdziałów merytorycznych (struktura pracy).*
+*   *Ogólne przedstawienie źródeł stanowiących podstawę opracowania problemu.)*
+
+**Wprowadzenie problemowe:** (jak wcześniej)
+Dynamiczny rozwój sektora e-commerce...
+
+**Uzasadnienie wyboru tematu, przedmiot i cel pracy, problemy i metody badawcze:**
+Wybór tematu "Optymalizacja logistyki zwrotów w branży e-commerce jako kluczowy element zrównoważonego łańcucha dostaw" podyktowany jest... Głównym celem niniejszej pracy inżynierskiej jest opracowanie i zaproponowanie modelu optymalizacji... (tu należy rozwinąć zgodnie z wytycznymi, włączając problemy badawcze, hipotezy i metody).
+
+**Struktura pracy:**
+Praca składa się ze wstępu, czterech rozdziałów merytorycznych, zakończenia, bibliografii oraz pozostałych elementów wymaganych przez uczelnię.
+Rozdział pierwszy poświęcony jest teoretycznym aspektom...
+Rozdział drugi przedstawia metodykę badań własnych...
+Rozdział trzeci zawiera analizę i ocenę obecnego systemu...
+Rozdział czwarty prezentuje projekt optymalizacji...
+Pracę kończy podsumowanie...
+
+---
+
+## Przykłady źródeł (zgodnie z wytycznymi dotyczącymi Bibliografii, Netografii, Aktów normatywnych)
+
+*   **Literatura techniczno-naukowa (Bibliografia):**
+    *   (Jak wcześniej, formatowanie przypisów i bibliografii zgodnie ze str. 14-16 Wytycznych)
+*   **Raporty branżowe i statystyki (Bibliografia/Netografia):**
+    *   (Jak wcześniej)
+*   **Normy i standardy logistyczne (Bibliografia/Akty normatywne, jeśli mają taki status):**
+    *   (Jak wcześniej)
+*   **Oprogramowanie/systemy WMS/TMS/RMS (Netografia/Materiały firmowe w Bibliografii):**
+    *   (Jak wcześniej)
+*   **Regulacje środowiskowe (Akty normatywne/Bibliografia):**
+    *   (Jak wcześniej, z rozróżnieniem na akty prawne i opracowania)
+
+**Ważne uwagi dotyczące cytowania i przypisów (str. 14-15 Wytycznych):**
+*   Stosowanie przypisów automatycznych (Wstaw/Przypis).
+*   Formatowanie przypisów: inicjały imienia, nazwisko, *tytuł pracy (kursywa)*, miejsce wydania, rok wydania, numer strony.
+*   Cytowanie aktów prawnych w tekście i w przypisach zgodnie z wytycznymi.
+*   Cytowanie stron internetowych z podaniem daty dostępu.
+
+Ta zaktualizowana struktura powinna być bardziej zgodna z formalnymi "Wytycznymi pisania pracy dyplomowej" Twojej uczelni. Pamiętaj, aby zawsze konsultować ostateczną strukturę i zawartość z promotorem pracy.
